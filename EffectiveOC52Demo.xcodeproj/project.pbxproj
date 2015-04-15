@@ -412,6 +412,7 @@
 				85543A4B1ADE064A007E2D6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		85543A4C1ADE064A007E2D6D /* Build configuration list for PBXNativeTarget "EffectiveOC52DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				85543A4E1ADE064A007E2D6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
